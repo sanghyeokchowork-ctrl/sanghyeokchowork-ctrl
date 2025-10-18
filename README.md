@@ -20,3 +20,8 @@ Focused on building data-driven problem-solving skills.
 ### Database/Query
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
+
+
+## What I am working on...
+
+[Still-Learning](https://github.com/sanghyeokchowork-ctrl/Still-Learning)
