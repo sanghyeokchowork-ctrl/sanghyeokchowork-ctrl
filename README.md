@@ -1,3 +1,11 @@
+## I am...
+
+Still Learning: Developer continuously growing through ML/DL challenges. 
+
+Focused on building data-driven problem-solving skills.
+
+
+
 ## What I am learning...
 
 ### Deep Learning
